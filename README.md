@@ -4,7 +4,7 @@ This repository provides an [issue tracker](https://github.com/deathcap/voxel-id
 [voxel.js](http://voxeljs.com/) plugins. Feel free to open new issues for any new plugin idea you might have or
 implement any of these ideas, or discuss them here.
 
-Note this tracker is intended mainly new modules (possibly using
+Note this tracker is intended for new modules (possibly using
 [voxel-plugins](https://github.com/deathcap/voxel-plugins)) that don't exist yet, rather than suggested enhancements to
 existing modules — which would be better tracked in their respective bug trackers.
 
